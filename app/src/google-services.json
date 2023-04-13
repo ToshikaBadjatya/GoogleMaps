@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "528784039000",
+    "project_id": "teak-kit-361909",
+    "storage_bucket": "teak-kit-361909.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:528784039000:android:f068fce399dc8c07d7be2d",
+        "android_client_info": {
+          "package_name": "com.example.googlemaps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "528784039000-amuul9lobtq01jjthglqj5b24rd02juk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAT24ipwf5SqPUS9ifsGkludG-ltmbOGM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "528784039000-amuul9lobtq01jjthglqj5b24rd02juk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
